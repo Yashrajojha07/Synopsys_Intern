@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello! I’m a recent(2025) ECE graduate from IIIT Delhi, with a strong interest in the VLSI domain. I'm genuinely excited about the opportunity to contribute to Synopsys' R&D Engineering team and would like to share why I believe I could be a valuable addition to your team.
+Hi Sir! I’m a recent(2025) ECE graduate from IIIT Delhi, with a strong interest in the VLSI domain. I'm genuinely excited about the opportunity to contribute to Synopsys' R&D Engineering team and would like to share why I believe I could be a valuable addition to your team.
 
 ## My Technical Foundation
 
