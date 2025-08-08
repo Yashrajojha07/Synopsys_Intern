@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello! I'm Yash Raj Ojha, a final-year B.Tech student in Electronics & Communication Engineering at IIIT Delhi. I'm genuinely excited about the opportunity to contribute to Synopsys' R&D Engineering team and would like to share why I believe I could be a valuable addition to your team.
+Hello! I’m a recent(2025) ECE graduate from IIIT Delhi, with a strong interest in the VLSI domain. I'm genuinely excited about the opportunity to contribute to Synopsys' R&D Engineering team and would like to share why I believe I could be a valuable addition to your team.
 
 ## My Technical Foundation
 
